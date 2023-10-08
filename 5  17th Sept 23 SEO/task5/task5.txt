@@ -1,0 +1,24 @@
+A favicon is a small icon associated with a particular website, typically displayed in the address bar of a browser
+accessing the site or next to the site name in a user’s list of bookmarks1. It is also known as a shortcut icon,
+website icon, tab icon, URL icon, or bookmark icon.
+Here is an example of how to add a favicon to an HTML document:
+
+    <!DOCTYPE html>
+    <html>
+        <head>
+            <title>My Website</title>
+            <link rel="icon" href="favicon.ico" type="image/x-icon">
+        </head>
+        <body>
+            <!-- Page content goes here -->
+        </body>
+    </html>
+
+In this example, the link element with rel="icon" specifies the location of the favicon file (favicon.ico) relative to
+the HTML document. The type attribute specifies the MIME type of the file (image/x-icon).
+
+By adding a favicon to your website, you can help improve its branding and recognition, as well as provide a more 
+professional and polished appearance to your users 
+
+
+

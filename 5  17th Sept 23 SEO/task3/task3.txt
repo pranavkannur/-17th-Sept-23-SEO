@@ -1,0 +1,8 @@
+The benefits of using meta tags are:
+1]They can help improve the visibility and ranking of a web page on search engine results pages (SERPs) by providing relevant information to search engines, 
+  such as the page title, description, and keywords.
+2]They can help enhance the appearance and engagement of a web page when shared on social media platforms by using the Open Graph Protocol tags, which allow 
+  developers to control how the page is displayed, such as the image, title, and description.
+3]They can help ensure the correctness and accessibility of a web page by specifying the character encoding, language, and viewport settings, which can 
+  affect how the browser interprets and displays the text and layout of the page.
+4]They can help enable some HTTP header functionalities, such as refreshing or redirecting the page after a certain time, by using the http-equiv attribute.
